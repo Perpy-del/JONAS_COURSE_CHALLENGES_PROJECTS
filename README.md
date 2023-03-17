@@ -50,3 +50,23 @@ TEST DATA: 125, 555 and 44.
 ### Solution to Coding Challenge #2
 
 You can find the solution to the challenge [here](./codingchallenge%232.js).
+
+## Coding Challenge #3
+
+Mark and John are comparing their BMIs! Let us use objects to implement the calculations. Note: BMI = mass /height \*_ 2 = mass / (height _ height). (mass is kg and height is in meters).
+
+### Requirements
+
+- For each of them, create an object with properties for their full name, mass, and height. (Mark Miller and John Smith)
+
+- Create a `calcBMI` method on each object to calculate the BMI (the same method on both objects). Store the BMI value to a property, and also return it from the method.
+
+- Log to the console who has the higher BMI, together with the full name and the respective BMI. Example: "John's BMI (28.3) is higher than Mark's (23.9)"
+
+### Test Case
+
+TEST DATA: Mark's weight is 78 kg and is 1.69 m tall. John weight is 92 kg and is 1.95 m tall.
+
+### Solution to Coding Challenge #3
+
+You can find the solution to the coding challenge [here](./codingchallenge%233.js).
