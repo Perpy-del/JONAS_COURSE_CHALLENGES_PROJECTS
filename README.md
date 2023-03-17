@@ -19,7 +19,7 @@ A team only wins if it has at least DOUBLE the average score of the other team. 
 
 - Ignore draws this time.
 
-### Use Test Cases
+### Test Cases
 
 - TEST DATA 1: Doliphins score 44, 23 and 71. Koalas score 65. 54 and 49.
 
@@ -28,3 +28,25 @@ A team only wins if it has at least DOUBLE the average score of the other team. 
 ### Solution to Coding Challenge #1
 
 You can find the solution to this challenge [here](./codingchallenge%231.js).
+
+## Coding Challenge #2
+
+Steven is building his tip calculator, using this rule: Tip 15% of the bill value if the bill value is between 50 and 300, and if the value is different, the tip is 20%.
+
+### Requirements
+
+- Write a function `calcTip` that takes any bill value as an input and returns the corresponding tip, calculated based on the rules above. Use the function type you like the most. Test the function using a bill value of 100.
+
+- And now let's use arrays! So create an array `bills` containing the test data below
+
+- Create an array `tips` containing the tip value for each bill, calculated from the function you created before.
+
+- BONUS: Create an array `total` containing the total values, so the bill + tip.
+
+### Test Case
+
+TEST DATA: 125, 555 and 44.
+
+### Solution to Coding Challenge #2
+
+You can find the solution to the challenge [here](./codingchallenge%232.js).
