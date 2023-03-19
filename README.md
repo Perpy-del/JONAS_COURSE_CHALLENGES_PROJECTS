@@ -87,6 +87,10 @@ Improving the tip calculator created earlier using loops.
 
 TEST DATA: 22, 295, 176, 440, 37, 105, 10, 1100, 86 and 52.
 
+### BONUS:
+
+Write a function `calcAverage` which takes an array called `arr` as an argument. This function calculates the average of all numbers in the given array.
+
 ### Solution to Coding Challenge #4
 
 You can find the solution to the coding challenge [here](./codingchallenge%234.js).
