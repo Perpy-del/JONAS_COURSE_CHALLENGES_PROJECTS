@@ -1,3 +1,4 @@
+'use strict';
 // MY SOLUTION TO CHALLENGE #4
 
 //   Create an array called bills containing all 10 bill values.
@@ -42,3 +43,6 @@ const calcAverage = function (arr) {
 };
 
 console.log(calcAverage([1, 2, 3, 4, 5])); // logs 3 to the console.
+console.log(calcAverage(totals)); // logs 275.19 to the console.
+console.log(calcAverage(bills)); // logs 232.3 to the console.
+console.log(calcAverage(tips)); // logs 42.89 to the console.
