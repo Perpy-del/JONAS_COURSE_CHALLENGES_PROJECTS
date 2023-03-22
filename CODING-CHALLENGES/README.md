@@ -101,13 +101,13 @@ Example: (17, 21, 23) will print "...17C in 1 days ... 21C in 2 days ... 23C in 
 
 - Create a function 'printForecast' which takes in an array 'arr' and logs a string like the above to the console.
 
-- Use the problem-solcing framework: Understand the problem and break it up into sub-problems.
+- Use the problem-solving framework: Understand the problem and break it up into sub-problems.
 
 ### Test Case
 
 TEST DATA 1: (17, 21, 23)
 TEST DATA 2: (12, 5, -5, 0, 4)
 
-### Solution to Coding Challenge #4
+### Solution to Coding Challenge Debugging
 
 You can find the solution to the coding challenge [here](./codchallenge_debugging.js)
